@@ -1,0 +1,14 @@
+{
+  "name": "ts3-query", 
+  "version": "0.0.1", 
+  "description": "thin ts3 query wrapper", 
+  "keywords": ["teamspeak"], 
+
+  "author": {
+    "name": "Mark Schmale", 
+    "email": "masch@masch.it", 
+    "url": "http://masch.it"
+  }, 
+
+  "main": "index.js"
+}
